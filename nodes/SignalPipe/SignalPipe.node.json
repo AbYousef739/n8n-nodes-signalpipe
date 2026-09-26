@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-signalpipe.signalPipe",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Sales", "Marketing"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/AbYousef739/n8n-nodes-signalpipe?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/AbYousef739/n8n-nodes-signalpipe?tab=readme-ov-file"
+			}
+		]
+	}
+}
