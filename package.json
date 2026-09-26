@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/AbYousef739/n8n-nodes-signalpipe.git"
+		"url": "git+https://github.com/AbYousef739/n8n-nodes-signalpipe.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
@@ -33,6 +33,9 @@
 	"files": [
 		"dist"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"n8n": {
 		"n8nNodesApiVersion": 1,
 		"strict": true,

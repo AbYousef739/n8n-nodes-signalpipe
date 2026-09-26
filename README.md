@@ -106,4 +106,4 @@ The node sends the text you score, and any context, to SignalPipe at `api.signal
 
 ## Version history
 
-- **0.1.0**: first release. Score, missions (get, approve, reject, mark as sent, upload a draft, delete), products, and the New Mission trigger.
+- **0.1.1**: first release on npm. Score, missions (get, approve, reject, mark as sent, upload a draft, delete), products, and the New Mission trigger. Version 0.1.0 was tagged on GitHub but never reached npm.
