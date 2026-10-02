@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-signalpipe",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "SignalPipe for n8n: judge whether the author of any text is a real buyer for your product, and act on the buyers SignalPipe finds.",
 	"license": "MIT",
 	"homepage": "https://signalpipe.io",
